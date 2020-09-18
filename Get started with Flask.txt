@@ -1,0 +1,9 @@
+1. Make a folder where the project is going to be created
+2. Make the main file (.py)
+3. In the terminal of your editor, type 'python -m venv env'
+4. Press enter
+5. Press (Ctrl+Shift+P)
+6. Click 'Python: Select Interpreter'
+7. Select the one which starts with '.\env' or './env'
+8. Press (Ctrl+Shift+`)
+9. You are ready to code using Flask!
