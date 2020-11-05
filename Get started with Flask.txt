@@ -1,9 +1,10 @@
-1. Make a folder where the project is going to be created
-2. Make the main file (.py)
-3. In the terminal of your editor, type 'python -m venv env'
-4. Press enter
-5. Press (Ctrl+Shift+P)
-6. Click 'Python: Select Interpreter'
-7. Select the one which starts with '.\env' or './env'
-8. Press (Ctrl+Shift+`)
-9. You are ready to code using Flask!
+1. Make a folder where the project is going to be created.
+2. Make the main python file 'you_choose_the_name.py'.
+3. 'Ctrl + Click' in the folder that you've made and click "Open PowerShell window here" or "Open Terminal window here".
+4. Type 'python -m venv env' and press 'Enter'.
+5. Open the folder in Visual Studio Code and press 'Ctrl+Shift+P'.
+6. Click "Python: Select Interpreter".
+7. Select the one which starts with ".\env" or "./env".
+8. Press 'Ctrl+Shift+`'
+9. Type 'pip install flask' into the terminal of Visual Studio Code and press 'Enter'.
+10. You are ready to code using Flask!
